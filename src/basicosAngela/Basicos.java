@@ -24,10 +24,11 @@ public class Basicos {
         System.out.println("Valor doble");
         System.out.println(doble);
     }
-}
+
     public static void main (String [] args) {
     	numericos(); 
-    	cadenas();
+    	Cadenas();
+    	Logicos();
     }
-	
+}
 
