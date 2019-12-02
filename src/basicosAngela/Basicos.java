@@ -32,6 +32,8 @@ public class Basicos {
 
     public static void main (String [] args) {
     	numericos(); 
+    	
+    	
     }
 }
 
